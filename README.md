@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 
 
-<!--
-**sdionisio4T/sdionisio4T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador en formación, apasionado por la programación, la música y el aprendizaje continuo. Me gusta experimentar con nuevas tecnologías y mejorar mis habilidades cada día.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🌱 Actualmente aprendiendo **programación de software** y mejorando mis habilidades en **Git/GitHub**.
+- 💻 Interesado en **desarrollo web**, **bases de datos** y **automatización**.
+- 🎹 También me dedico a la música y composición, combinando creatividad y lógica.
+- 📚 Me encanta estudiar y compartir conocimientos útiles.
+
+---
+
+## 🛠 Habilidades
+- **Lenguajes:** Python, SQL, JavaScript (básico)
+- **Herramientas:** Git, GitHub, VS Code, Terminal
+- **Bases de datos:** MySQL, PostgreSQL
+- **Otros:** Markdown, HTML/CSS
+
+---
+
+
