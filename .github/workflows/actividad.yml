@@ -2,8 +2,11 @@ name: Actualizar Actividad Reciente
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # cada 4 horas
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 ESTO ES CLAVE
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README with recent GitHub activity
+      - name: Update README with GitHub activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
