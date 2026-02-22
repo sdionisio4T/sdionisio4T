@@ -20,6 +20,8 @@ Soy un desarrollador en formación, apasionado por la programación, la música 
 
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#61](https://github.com/platzi/git-github/pull/61) in [platzi/git-github](https://github.com/platzi/git-github)
+2. 💪 Opened PR [#61](https://github.com/platzi/git-github/pull/61) in [platzi/git-github](https://github.com/platzi/git-github)
 <!--END_SECTION:activity-->
 
 
