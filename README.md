@@ -19,10 +19,8 @@ Soy un desarrollador en formación, apasionado por la programación, la música 
 - **Otros:** Markdown, HTML/CSS
 
 ### :zap: Actividad Reciente
-<!--star_section:activity-->
-
-
-<!--end_section:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
