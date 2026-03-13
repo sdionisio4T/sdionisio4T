@@ -20,8 +20,8 @@ Soy un desarrollador en formación, apasionado por la programación, la música 
 
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sdionisio4T/SIGJEP-dev/pull/1) in [sdionisio4T/SIGJEP-dev](https://github.com/sdionisio4T/SIGJEP-dev)
-2. 🚀 Published release [v0.1.0](https://github.com/sdionisio4T/tercerRepo/releases/tag/v0.1.0) in [sdionisio4T/tercerRepo](https://github.com/sdionisio4T/tercerRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/sdionisio4T/tercerRepo/releases/tag/v0.1.0) in [sdionisio4T/tercerRepo](https://github.com/sdionisio4T/tercerRepo)
+2. 🎉 Merged PR [#3](https://github.com/sdionisio4T/mi-4-repo/pull/3) in [sdionisio4T/mi-4-repo](https://github.com/sdionisio4T/mi-4-repo)
 <!--END_SECTION:activity-->
 
 
