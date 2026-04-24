@@ -20,8 +20,8 @@ Soy un desarrollador en formación, apasionado por la programación, la música 
 
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/davidbeltran9780/PROYECTO-SIJGEP/pull/4) in [davidbeltran9780/PROYECTO-SIJGEP](https://github.com/davidbeltran9780/PROYECTO-SIJGEP)
-2. 💪 Opened PR [#4](https://github.com/davidbeltran9780/PROYECTO-SIJGEP/pull/4) in [davidbeltran9780/PROYECTO-SIJGEP](https://github.com/davidbeltran9780/PROYECTO-SIJGEP)
+1. 🎉 Merged PR [#6](https://github.com/davidbeltran9780/PROYECTO-SIJGEP/pull/6) in [davidbeltran9780/PROYECTO-SIJGEP](https://github.com/davidbeltran9780/PROYECTO-SIJGEP)
+2. 💪 Opened PR [#6](https://github.com/davidbeltran9780/PROYECTO-SIJGEP/pull/6) in [davidbeltran9780/PROYECTO-SIJGEP](https://github.com/davidbeltran9780/PROYECTO-SIJGEP)
 <!--END_SECTION:activity-->
 
 
